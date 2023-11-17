@@ -1,0 +1,24 @@
+body {
+    padding-top: 3.5rem;
+    background-color: #4a94dd;
+    font-family: 'Newsreader', serif;
+  }
+  
+  .container ul {
+    display: table;
+    margin: 0 auto;
+  }
+  
+  img {
+    width: 500px;
+    height: 200px;
+  }
+  
+  .card {
+    margin: 10px auto;
+    float: none;
+    background-color: rgb(231, 212, 188);
+    border-color: black;
+    border-radius: 3rem;
+  }
+ 
